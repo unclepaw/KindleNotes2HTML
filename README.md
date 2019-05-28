@@ -1,0 +1,2 @@
+# KindleNotes2HTML
+让kindle导出的笔记变得漂亮的css和js
